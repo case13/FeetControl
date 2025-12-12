@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Backend\FeetControl.Shared\FeetControl.Shared.csproj" />
+    <ProjectReference Include="..\..\Shared\FeetControl.Shared\FeetControl.Shared.csproj" />
   </ItemGroup>
 
 </Project>

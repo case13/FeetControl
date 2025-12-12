@@ -7,9 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Shared\FeetControl.Shared\FeetControl.Shared.csproj" />
     <ProjectReference Include="..\FeetControl.Application\FeetControl.Application.csproj" />
     <ProjectReference Include="..\FeetControl.Domain\FeetControl.Domain.csproj" />
-    <ProjectReference Include="..\FeetControl.Shared\FeetControl.Shared.csproj" />
   </ItemGroup>
 
 </Project>
